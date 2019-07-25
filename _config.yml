@@ -82,3 +82,11 @@ deploy:
   type: git
   repository: git@github.com:panjm/panjm.github.io.git
   branch: master
+
+# 文章字数阅读时长
+post_wordcount:
+  item_text: true
+  wordcount: true
+  min2read: true
+
+
