@@ -16,6 +16,7 @@
 
     echo "test-3\n";
 ```
+<!--more-->
 ![Image text](/images/go1.jpg)
 - go() 是 \Co::create() 的缩写, 用来创建一个协程
 - 执行过程:
